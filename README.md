@@ -1,2 +1,2 @@
-# my-frontend-dev
-JavaScript code by Terraform
+# This is dev JavaScript repo is for frontend
+Last modified by: Aleks :)
